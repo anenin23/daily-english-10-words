@@ -196,8 +196,6 @@ Tom didn’t realize the ramifications (consequences) of his decision to skip sc
 
 China now **eclipses** every other country when it comes to installations of wind and solar power, a striking transformation from 15 years ago. 
 
-
-
 The Sun Eclipses the Moon
 In the sky, the sun eclipses (covers) the moon, creating a stunning sight. The eclipse (event) lasts for a few minutes, but it’s an unforgettable experience. The moon’s light is eclipsed (blocked) during the day.
 
