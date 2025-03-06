@@ -112,7 +112,11 @@ Like many of Wikipedia’s principles and procedures, the neutral point of view 
 如同维基百科诸多原则与流程，中立观点也以一篇务实而精深的**认识论**文章形式呈现于站内。  
 
 But Wikipedia articles—especially those on big and contentious subjects—are remarkably **forthcoming** about why they include or omit what they do.  
-但维基百科条目——尤其是涉及重大争议话题时——对其收录与删除标准异常**坦率**。  
+但维基百科条目——尤其是涉及重大争议话题时——对其收录与删除标准异常**坦率**。
+
+---
+
+@ mar 6th
 
 If you want to add or correct something and you are able to supply references for it that meet Wikipedia’s increasingly stringent standards for reliability, you can make an edit and see if it passes **muster**.  
 若您希望补充或修正内容，并能提供符合维基百科日益严格可靠性标准的参考资料，即可尝试编辑并观察是否**通过审核**。  
